@@ -1,0 +1,7 @@
+{
+  "name": "custom-ecommerce",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  }
+}
